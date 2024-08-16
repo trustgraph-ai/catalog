@@ -30,7 +30,7 @@
 - **Model**: `Claude 3 Haiku`
 - **Chunking**: `1,500`
 - **Deployment**: `AWS Bedrock`
-- **Extracted Graph Edges**: `1,752`
+- **Extracted Graph Edges**: `1,728`
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
