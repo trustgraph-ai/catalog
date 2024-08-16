@@ -53,6 +53,15 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
+### Extraction Haiku 5
+
+- **Model**: `Claude 3 Haiku`
+- **Chunking**: `1,000`
+- **Deployment**: `AWS Bedrock`
+- **Extracted Graph Edges**: `2,153`
+- **Graph Store**: `Cassandra`
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
+
 ### Extraction Llama3.1:8B
 
 - **Model**: `Llama3.1:8B`
