@@ -33,3 +33,12 @@
 - **Extracted Graph Edges**: `1,543`
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
+
+### Extraction Gemma2:9B
+
+- **Model**: `Gemma2:9B`
+- **Chunking**: `1,500`
+- **Deployment**: `Ollama`
+- **Extracted Graph Edges**: `1,459`
+- **Graph Store**: `Cassandra`
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
