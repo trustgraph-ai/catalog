@@ -24,3 +24,12 @@
 - **Extracted Graph Edges**: `1,710`
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
+
+### Extraction Llama3.1:8B
+
+- **Model**: `Llama3.1:8B`
+- **Chunking**: `1,500`
+- **Deployment**: `Ollama`
+- **Extracted Graph Edges**: `1,543`
+- **Graph Store**: `Cassandra`
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
