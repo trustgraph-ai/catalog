@@ -14,7 +14,7 @@
 - **Deployment**: `AWS Bedrock`
 - **Extracted Graph Edges**: `1,436`
 - **Graph Store**: `Cassandra`
-- **Extracted By:**: [JackColquitt](https://github.com/JackColquitt)
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
 ### Extraction Haiku
 
@@ -23,4 +23,4 @@
 - **Deployment**: `AWS Bedrock`
 - **Extracted Graph Edges**: `1,710`
 - **Graph Store**: `Cassandra`
-- **Extracted By:**: [JackColquitt](https://github.com/JackColquitt)
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
