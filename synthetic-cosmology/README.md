@@ -12,9 +12,11 @@
 - **Deployment**: `AWS Bedrock`
 - **Extracted Graph Edges**: `1,436`
 - **Graph Store**: `Cassandra`
+- **Extracted By:**: [JackColquitt](https://github.com/JackColquitt)
 
 - **Model**: `Claude 3 Haiku`
 - **Chunking**: `2,000`
 - **Deployment**: `AWS Bedrock`
 - **Extracted Graph Edges**: `1,710`
 - **Graph Store**: `Cassandra`
+- **Extracted By:**: [JackColquitt](https://github.com/JackColquitt)
