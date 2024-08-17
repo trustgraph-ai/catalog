@@ -7,12 +7,12 @@
 
 ## Extractions
 
-### Extraction Mistral
+### Extraction Mistral 1
 
 - **Model**: `Mistral Large 2407`
 - **Chunking**: `2,000`
 - **Deployment**: `AWS Bedrock`
-- **Extracted Graph Edges**: `1,436`
+- **Extracted Graph Edges**: `1,455`
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
