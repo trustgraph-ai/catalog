@@ -16,6 +16,15 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
+### Extraction Mistral 2
+
+- **Model**: `Mistral Large 2407`
+- **Chunking**: `1,000`
+- **Deployment**: `AWS Bedrock`
+- **Extracted Graph Edges**: `1790`
+- **Graph Store**: `Cassandra`
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
+
 ### Extraction Haiku 1
 
 - **Model**: `Claude 3 Haiku`
