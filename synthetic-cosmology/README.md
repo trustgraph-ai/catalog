@@ -52,6 +52,17 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
+## Sonnet 3.5 Extractions
+
+### Sonnet 1
+
+- **Model**: `Claude 3.5 Sonnet`
+- **Chunking**: `8,000`
+- **Deployment**: `Anthropic`
+- **Extracted Graph Edges**: `1220`
+- **Graph Store**: `Cassandra`
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
+
 ## Haiku Extractions
 
 ### Haiku 1
