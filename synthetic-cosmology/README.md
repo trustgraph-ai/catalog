@@ -5,9 +5,9 @@
 - **Source Document**: Synthetic Cosmology (generated document using Claude 3.5 Sonnet)
 - **Source Tokens**: ~10,000
 
-## Extractions
+## Mistral Extractions
 
-### Extraction Mistral 1
+### Mistral 1
 
 - **Model**: `Mistral Large 2407`
 - **Chunking**: `2,000`
@@ -16,7 +16,7 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
-### Extraction Mistral 2
+### Mistral 2
 
 - **Model**: `Mistral Large 2407`
 - **Chunking**: `1,000`
@@ -25,7 +25,7 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
-### Extraction Mistral 3
+### Mistral 3
 
 - **Model**: `Mistral Large 2407`
 - **Chunking**: `500`
@@ -34,7 +34,18 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
-### Extraction Haiku 1
+### Mistral 4
+
+- **Model**: `Mistral Large 2407`
+- **Chunking**: `4000`
+- **Deployment**: `AWS Bedrock`
+- **Extracted Graph Edges**: `1125`
+- **Graph Store**: `Cassandra`
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
+
+## Haiku Extractions
+
+### Haiku 1
 
 - **Model**: `Claude 3 Haiku`
 - **Chunking**: `2,000`
@@ -43,7 +54,7 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
-### Extraction Haiku 2
+### Haiku 2
 
 - **Model**: `Claude 3 Haiku`
 - **Chunking**: `1,500`
@@ -52,7 +63,7 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
-### Extraction Haiku 3
+### Haiku 3
 
 - **Model**: `Claude 3 Haiku`
 - **Chunking**: `4,000`
@@ -62,7 +73,7 @@
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
 
-### Extraction Haiku 4
+### Haiku 4
 
 - **Model**: `Claude 3 Haiku`
 - **Chunking**: `8,000`
@@ -71,7 +82,7 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
-### Extraction Haiku 5
+### Haiku 5
 
 - **Model**: `Claude 3 Haiku`
 - **Chunking**: `1,000`
@@ -80,7 +91,7 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
-### Extraction Haiku 6
+### Haiku 6
 
 - **Model**: `Claude 3 Haiku`
 - **Chunking**: `500`
@@ -89,7 +100,9 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
-### Extraction Llama3.1:8B
+## Llama 3.1:8B Extractions
+
+### Llama3.1:8B
 
 - **Model**: `Llama3.1:8B`
 - **Chunking**: `1,500`
@@ -98,7 +111,9 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
-### Extraction Gemma2:9B
+## Gemma2:9B Extractions
+
+### Gemma2:9B
 
 - **Model**: `Gemma2:9B`
 - **Chunking**: `1,500`
