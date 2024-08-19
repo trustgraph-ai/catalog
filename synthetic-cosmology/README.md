@@ -73,12 +73,21 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
-### Sonnet 1
+### Sonnet 2
 
 - **Model**: `Claude 3.5 Sonnet`
 - **Chunking**: `4,000`
 - **Deployment**: `Anthropic`
 - **Extracted Graph Edges**: `1230`
+- **Graph Store**: `Cassandra`
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
+
+### Sonnet 3
+
+- **Model**: `Claude 3.5 Sonnet`
+- **Chunking**: `2,000`
+- **Deployment**: `Anthropic`
+- **Extracted Graph Edges**: `1555`
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
