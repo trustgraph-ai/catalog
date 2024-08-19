@@ -10,8 +10,8 @@
 |  Model  |  Graph Edges | Chunk Size |
 | ------- | ------------ | ---------- |
 | Haiku | 2,975 | 500 |
+| Sonnet 3.5 | 2,575 | 500 |
 | Mistral Large | 2,266 | 500|
-| Sonnet 3.5 | 0000 | 500 |
 | Llama 3.1:8B | 1,543 | 1500 |
 | Gemma2:9B | 1,459 | 1500 |
 
@@ -97,6 +97,15 @@
 - **Chunking**: `1,000`
 - **Deployment**: `Anthropic`
 - **Extracted Graph Edges**: `2066`
+- **Graph Store**: `Cassandra`
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
+
+### Sonnet 5
+
+- **Model**: `Claude 3.5 Sonnet`
+- **Chunking**: `1,000`
+- **Deployment**: `Anthropic`
+- **Extracted Graph Edges**: `2575`
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
