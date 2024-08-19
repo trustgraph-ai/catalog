@@ -5,6 +5,16 @@
 - **Source Document**: Synthetic Cosmology (generated document using Claude 3.5 Sonnet)
 - **Source Tokens**: ~10,000
 
+## Best Extractions per Model
+
+|  Model  |  Graph Edges | Chunk Size |
+| ------- | ------------ | ---------- |
+| Haiku | 2,975 | 500 |
+| Mistral Large | 2,266 | 500|
+| Sonnet 3.5 | 0000 | 500 |
+| Llama 3.1:8B | 1,543 | 1500 |
+| Gemma2:9B | 1,459 | 1500 |
+
 ## Mistral Extractions
 
 ### Mistral 1
