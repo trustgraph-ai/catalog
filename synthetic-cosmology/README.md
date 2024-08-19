@@ -11,9 +11,9 @@
 | ------- | ------------ | ---------- |
 | Haiku | 2,975 | 500 |
 | Sonnet 3.5 | 2,575 | 500 |
+| Llama 3.1:8B | 2,439 | 500 |
 | Mistral Large | 2,266 | 500|
 | Gemma2:9B | 2,078 | 500 |
-| Llama 3.1:8B | 1,543 | 1500 |
 
 ## Mistral Extractions
 
@@ -168,12 +168,21 @@
 
 ## Llama 3.1:8B Extractions
 
-### Llama3.1:8B
+### Llama 1
 
 - **Model**: `Llama3.1:8B`
 - **Chunking**: `1,500`
 - **Deployment**: `Ollama`
 - **Extracted Graph Edges**: `1,543`
+- **Graph Store**: `Cassandra`
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
+
+### Llama 2
+
+- **Model**: `Llama3.1:8B`
+- **Chunking**: `500`
+- **Deployment**: `Ollama`
+- **Extracted Graph Edges**: `2439`
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
