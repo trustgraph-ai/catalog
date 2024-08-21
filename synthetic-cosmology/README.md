@@ -251,8 +251,17 @@
 ### Gemini 4
 
 - **Model**: `Gemini 1.5 Flash`
-- **Chunking**: `2000`
+- **Chunking**: `4000`
 - **Deployment**: `VertexAI`
 - **Extracted Graph Edges**: `1945`
+- **Graph Store**: `Cassandra`
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
+
+### Gemini 5
+
+- **Model**: `Gemini 1.5 Flash`
+- **Chunking**: `8000`
+- **Deployment**: `VertexAI`
+- **Extracted Graph Edges**: `1355`
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
