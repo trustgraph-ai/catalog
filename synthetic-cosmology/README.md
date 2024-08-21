@@ -253,7 +253,7 @@
 - **Model**: `Gemini 1.5 Flash`
 - **Chunking**: `4000`
 - **Deployment**: `VertexAI`
-- **Extracted Graph Edges**: `1945`
+- **Extracted Graph Edges**: `1388`
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
