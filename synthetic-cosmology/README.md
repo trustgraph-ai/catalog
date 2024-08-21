@@ -229,3 +229,12 @@
 - **Extracted Graph Edges**: `3084`
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
+
+### Gemini 2
+
+- **Model**: `Gemini 1.5 Flash`
+- **Chunking**: `1000`
+- **Deployment**: `VertexAI`
+- **Extracted Graph Edges**: `2399`
+- **Graph Store**: `Cassandra`
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
