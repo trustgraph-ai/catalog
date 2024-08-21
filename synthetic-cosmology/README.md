@@ -5,10 +5,15 @@
 - **Source Document**: Synthetic Cosmology (generated document using Claude 3.5 Sonnet)
 - **Source Tokens**: ~10,000
 
+## Chunking
+
+- `chunker-recursive`
+
 ## Best Extractions per Model
 
 |  Model  |  Graph Edges | Chunk Size |
 | ------- | ------------ | ---------- |
+| Mixtral8x7B | 3,226 | 500 |
 | Gemini 1.5 Flash | 3,084 | 500 |
 | Haiku | 2,975 | 500 |
 | Sonnet 3.5 | 2,575 | 500 |
@@ -273,4 +278,15 @@
 - **Deployment**: `VertexAI`
 - **Extracted Graph Edges**: `1834`
 - **Graph Store**: `Cassandra`
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
+
+## Mixtral Extractions
+
+### Mixtral 1
+
+- **Model**: `Mixtral8x7B`
+- **Chunking**: `500`
+- **Deployment**: `AWS Bedrock`
+- **Extracted Graph Edges**: `3226`
+- **Graph Store**: `Neo4j`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
