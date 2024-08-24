@@ -215,7 +215,7 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
-### Llama 4
+### Llama 5
 
 - **Model**: `Llama3.1:8B`
 - **Version**: `0.7.10`
