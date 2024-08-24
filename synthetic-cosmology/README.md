@@ -193,6 +193,17 @@
 - **Graph Store**: `Cassandra`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
 
+### Llama 3
+
+- **Model**: `Llama3.1:8B`
+- **Version**: `0.7.10`
+- **Chunking**: `1000`
+- **Chunking Method**: `Recursive`
+- **Deployment**: `Ollama`
+- **Extracted Graph Edges**: `1918`
+- **Graph Store**: `Cassandra`
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
+
 ## Gemma2:9B Extractions
 
 ### Gemma 1
