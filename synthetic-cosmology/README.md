@@ -290,3 +290,14 @@
 - **Extracted Graph Edges**: `3226`
 - **Graph Store**: `Neo4j`
 - **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
+
+### Mixtral 2
+
+- **Model**: `Mixtral8x7B`
+- **Version**: `0.7.10`
+- **Chunking**: `1000`
+- **Chunking Method**: `Recursive`
+- **Deployment**: `AWS Bedrock`
+- **Extracted Graph Edges**: `1944`
+- **Graph Store**: `Cassandra`
+- **Extracted By:** [JackColquitt](https://github.com/JackColquitt)
