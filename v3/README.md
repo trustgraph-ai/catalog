@@ -10,12 +10,14 @@ following changes:
   graph embeddings to be used in a message as a performance improvement.
   This is not compatible with TG 0.18 or earlier.
   
-Note!  Cores are compressed with gzip.  You should uncompress before
-loading.
+Note!  Cores are compressed.  You should uncompress before
+loading.  *.gz files are gzip compressed.  *.7z are 7-Zip compressed.
   
 ## Knowledge cores
 
 - `nasa-challenger-report1.core.gz`: NASA's Challenger report volume 1.
 - `etsi-ts-303-645.core.gz`: ETSI TS 303 645, standard for IoT consumer
   device security
+- `uklaw-2024.core.7z` : UK legislation 2024.  From here:
+  https://github.com/trustgraph-ai/uk-legislation-demo
 
