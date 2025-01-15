@@ -20,4 +20,6 @@ loading.  *.gz files are gzip compressed.  *.7z are 7-Zip compressed.
   device security
 - `uklaw-2024.core.7z` : UK legislation 2024.  From here:
   https://github.com/trustgraph-ai/uk-legislation-demo
+- `mil-hdbk-516c.core.gz`: MIL-HDBK-516C, the DoD handbook on
+  airworthiness certification criteria.
 
