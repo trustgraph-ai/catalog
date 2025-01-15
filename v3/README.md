@@ -22,4 +22,5 @@ loading.  *.gz files are gzip compressed.  *.7z are 7-Zip compressed.
   https://github.com/trustgraph-ai/uk-legislation-demo
 - `mil-hdbk-516c.core.gz`: MIL-HDBK-516C, the DoD handbook on
   airworthiness certification criteria.
-
+- `application-arp4754a-flight-critical.core.gz`: NASA document:
+  Application of SAE ARP4754A to Flight Critical Systems.
