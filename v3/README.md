@@ -1,5 +1,5 @@
 
-# TrustGraph knowledge cores
+# TrustGraph cognitive cores
 
 The 'v3' standard was introduced with TrustGraph 0.19, and reflects the
 following changes:
@@ -13,7 +13,7 @@ following changes:
 Note!  Cores are compressed.  You should uncompress before
 loading.  *.gz files are gzip compressed.  *.7z are 7-Zip compressed.
   
-## Knowledge cores
+## Cognitive cores
 
 - `nasa-challenger-report1.core.gz`: NASA's Challenger report volume 1.
 - `etsi-ts-303-645.core.gz`: ETSI TS 303 645, standard for IoT consumer
