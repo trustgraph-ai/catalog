@@ -10,8 +10,8 @@ following changes:
   graph embeddings to be used in a message as a performance improvement.
   This is not compatible with TG 0.18 or earlier.
   
-Note!  Cores are compressed.  You should uncompress before
-loading.  *.gz files are gzip compressed.  *.7z are 7-Zip compressed.
+> [!NOTE]
+> Cores are compressed.  You should uncompress before loading. `*.gz` files are `gzip` compressed.  `*.7z` are `7-Zip` compressed.
   
 ## Cognitive cores
 
